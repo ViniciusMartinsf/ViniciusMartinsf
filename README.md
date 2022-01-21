@@ -21,3 +21,4 @@
 - Estou me aprofudando no python e seus frameworks, pretendo ser um grande cientista de dados e logo mais um excelente dev fullstack.
 - Eu estudo todos os dias, se você quiser compartilhar seus conhecimentos ou aprender junto comigo, BORA!
 - 🙏 Obrigado pela visita !
+<img src='animatedkitty.svg' width='400'/>
