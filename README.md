@@ -18,7 +18,7 @@
   
 - 📑 Veja meus repositórios -> https://github.com/ViniciusMartinsf?tab=repositories
 - 💬 Sinta-se a vontade para conversar sobre como poderei melhorar meus códigos.
-- Estou me aprofudando no python e seus frameworks, pretendo ser um grande cientista de dados e logo mais um excelente dev fullstack.
+- Atualmente estou realizando um curso de HTML5 e CSS, pretendo ser um grande desenvolvedor fullstack.
 - Eu estudo todos os dias, se você quiser compartilhar seus conhecimentos ou aprender junto comigo, BORA!
 - 🙏 Obrigado pela visita !
 <img src='animatedkitty.svg' width='400'/>
